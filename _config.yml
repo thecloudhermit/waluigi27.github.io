@@ -7,21 +7,21 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Ushering In Growth'
+description: "My development story begins here."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Jordan Taylor'
 # edit 'categories' in the front matter of every post to match this username
-nickname: waluigi
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
-image: 'assets/images/casper.png'
+nickname: jt
+bio: 'Software Engineer. DC. Radford Baseball Alum.'
+location: 'Viringia, USA'
+url: 'https://github.com/jtaylor32'
+image: 'assets/images/gopher-me.png'
 
-short_url: 'biomadeira.github.io/jasper/'
-google_analytics: UA-69281367-1
-disqus: username
+short_url: 'github'
+google_analytics: UA-81287416-1
+disqus:
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 
@@ -57,12 +57,12 @@ exclude: [vendor]
 safe: false
 lsi: false
 username: waluigi27
-repo: waluigi27.github.io
+repo: blog
 branch: master
-relative_source: ../waluigi27.github.io/
-destination: ../waluigi27.github.io-pages/
-production_url:  https://waluigi27.github.io/jasper/
-source_url:      https://github.com/waluigi27/waluigi27.github.io/
+relative_source: ./
+destination: ./blog-pages/
+production_url:  http://cloudhermit.com
+source_url:      https://github.com/waluigi27/blog/
 
 exclude:
   - README.md
