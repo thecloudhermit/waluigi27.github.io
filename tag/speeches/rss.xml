@@ -5,16 +5,16 @@
    
       <title>github</title>
    
-   <link>https://github.com/jtaylor32</link>
+   <link>https://github.com/waluigi27</link>
    <description>My development story begins here.</description>
    <language>en-uk</language>
-   <managingEditor> Jordan Taylor</managingEditor>
+   <managingEditor> Seth Taylor</managingEditor>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>I Have a Dream</title>
 	  <link>//i-have-a-dream</link>
-	  <author>Jordan Taylor</author>
+	  <author>Seth Taylor</author>
 	  <pubDate>1963-08-28T10:18:00+00:00</pubDate>
 	  <guid>//i-have-a-dream</guid>
 	  <description><![CDATA[
@@ -122,7 +122,7 @@
 	<item>
 	  <title>The Purpose of Education</title>
 	  <link>//the-purpose-of-education</link>
-	  <author>Jordan Taylor</author>
+	  <author>Seth Taylor</author>
 	  <pubDate>1948-12-12T10:18:00+00:00</pubDate>
 	  <guid>//the-purpose-of-education</guid>
 	  <description><![CDATA[

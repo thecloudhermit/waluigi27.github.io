@@ -5,16 +5,16 @@
    
       <title>github</title>
    
-   <link>https://github.com/jtaylor32</link>
+   <link>https://github.com/waluigi27</link>
    <description>My development story begins here.</description>
    <language>en-uk</language>
-   <managingEditor> Jordan Taylor</managingEditor>
+   <managingEditor> Seth Taylor</managingEditor>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>A Full and Comprehensive Style Test</title>
 	  <link>//a-full-and-comprehensive-style-test</link>
-	  <author>Jordan Taylor</author>
+	  <author>Seth Taylor</author>
 	  <pubDate>2014-09-27T10:18:00+00:00</pubDate>
 	  <guid>//a-full-and-comprehensive-style-test</guid>
 	  <description><![CDATA[
@@ -434,7 +434,7 @@ c.draw = function() {
 	<item>
 	  <title>The Businessman & the fisherman</title>
 	  <link>//the-businessman-and-fisherman</link>
-	  <author>Jordan Taylor</author>
+	  <author>Seth Taylor</author>
 	  <pubDate>2014-08-12T10:18:00+00:00</pubDate>
 	  <guid>//the-businessman-and-fisherman</guid>
 	  <description><![CDATA[
@@ -478,7 +478,7 @@ c.draw = function() {
 	<item>
 	  <title>I Have a Dream</title>
 	  <link>//i-have-a-dream</link>
-	  <author>Jordan Taylor</author>
+	  <author>Seth Taylor</author>
 	  <pubDate>1963-08-28T10:18:00+00:00</pubDate>
 	  <guid>//i-have-a-dream</guid>
 	  <description><![CDATA[
@@ -586,7 +586,7 @@ c.draw = function() {
 	<item>
 	  <title>The Purpose of Education</title>
 	  <link>//the-purpose-of-education</link>
-	  <author>Jordan Taylor</author>
+	  <author>Seth Taylor</author>
 	  <pubDate>1948-12-12T10:18:00+00:00</pubDate>
 	  <guid>//the-purpose-of-education</guid>
 	  <description><![CDATA[
@@ -614,7 +614,7 @@ c.draw = function() {
 	<item>
 	  <title>Out to Sea</title>
 	  <link>//out-to-sea</link>
-	  <author>Jordan Taylor</author>
+	  <author>Seth Taylor</author>
 	  <pubDate>1912-07-24T10:18:00+00:00</pubDate>
 	  <guid>//out-to-sea</guid>
 	  <description><![CDATA[
@@ -704,7 +704,7 @@ c.draw = function() {
 	<item>
 	  <title>Looking-Glass house</title>
 	  <link>//looking-glass-house</link>
-	  <author>Jordan Taylor</author>
+	  <author>Seth Taylor</author>
 	  <pubDate>1871-03-18T10:18:00+00:00</pubDate>
 	  <guid>//looking-glass-house</guid>
 	  <description><![CDATA[
@@ -747,7 +747,7 @@ The poor King looked puzzled and unhappy, and struggled with the pencil for some
 	<item>
 	  <title>Down The Rabbit Hole</title>
 	  <link>//down-the-rabbit-hole</link>
-	  <author>Jordan Taylor</author>
+	  <author>Seth Taylor</author>
 	  <pubDate>1865-11-26T10:18:00+00:00</pubDate>
 	  <guid>//down-the-rabbit-hole</guid>
 	  <description><![CDATA[
@@ -811,7 +811,7 @@ The poor King looked puzzled and unhappy, and struggled with the pencil for some
 	<item>
 	  <title>Gettysburg Address</title>
 	  <link>//gettysburg-address</link>
-	  <author>Jordan Taylor</author>
+	  <author>Seth Taylor</author>
 	  <pubDate>1863-11-19T10:18:00+00:00</pubDate>
 	  <guid>//gettysburg-address</guid>
 	  <description><![CDATA[
