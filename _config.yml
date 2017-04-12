@@ -7,16 +7,16 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Ushering In Growth'
+name: 'Cloud Hermit'
 description: "My development story begins here."
 
 # Author's info
-author: 'Jordan Taylor'
+author: 'Seth Taylor'
 # edit 'categories' in the front matter of every post to match this username
-nickname: jt
-bio: 'Software Engineer. DC. Radford Baseball Alum.'
+nickname: waluigi
+bio: 'Software Engineer'
 location: 'Viringia, USA'
-url: 'https://github.com/jtaylor32'
+url: 'https://github.com/waluigi27'
 image: 'assets/images/gopher-me.png'
 
 short_url: 'github'
@@ -57,12 +57,12 @@ exclude: [vendor]
 safe: false
 lsi: false
 username: waluigi27
-repo: blog
+repo: waluigi27.github.io
 branch: master
 relative_source: ./
-destination: ./blog-pages/
+destination: ./waluigi27.github.io-pages/
 production_url:  http://cloudhermit.com
-source_url:      https://github.com/waluigi27/blog/
+source_url:      https://github.com/waluigi27/waluigi27.github.io/
 
 exclude:
   - README.md
